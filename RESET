@@ -1,2 +1,5 @@
 git reset --hard origin/master
 git pull
+
+(cd DNAC-Platform;git reset --hard origin/master; git pull)
+(cd DNAC-Subscription;git reset --hard origin/master; git pull)
